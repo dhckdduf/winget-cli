@@ -3,7 +3,7 @@
 
 ## WinGet Client
 
-![winget install wingetcreate](.github/images/WingetInstall.gif)
+![winget install wingetcreate][def]
 
 If you are new to the Windows Package Manager, you might want to [Explore the Windows Package Manager tool](https://docs.microsoft.com/learn/modules/explore-windows-package-manager-tool/?WT.mc_id=AZ-MVP-5004737). The client has access to packages from two default sources. The first is "msstore" the Microsoft Store (free Apps rated "e" for everyone). The second is "winget" the [WinGet community repository](https://github.com/microsoft/winget-pkgs).
 
@@ -139,3 +139,6 @@ In short to opt-out, do one of the following:
 **Windows 10**: Go to `Start`, then select `Settings` > `Privacy` > `Diagnostics & feedback`, and select `Required diagnostic data`.
 
 See the [privacy statement](PRIVACY.md) for more details.
+
+
+[def]: .github/images/WingetInstall.gif
